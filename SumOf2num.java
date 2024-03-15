@@ -5,8 +5,7 @@ package Problems;
 import java.util.Scanner;
 
 /**Making class */
-public class program_01 {
-
+public class SumOf2num {
     public static void main(String[] args) {
 
         /**Making an Scanner object named scan which scans the input data*/

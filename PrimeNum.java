@@ -3,7 +3,7 @@ package Problems;
 
 import java.util.Scanner;
 
-public class program_03 {
+public class PrimeNum {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
