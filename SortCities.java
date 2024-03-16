@@ -26,6 +26,5 @@ public class SortCities {
     public static void main(String[] args) {
         Inputs A = new Inputs();
         A.Sorted();
-
     }
 }
